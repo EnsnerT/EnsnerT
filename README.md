@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 im EnsnerT
+Welcome on my Profile!  
+
+I currently have these Projects up for you to Take a look at:
+- Task and Time Tracker ([Project on github.com](//github.com/EnsnerT/DailyLog/) / [Live on github.io](//ensnert.github.io/DailyLog/)) 
+- Weekly Login, Break and Logout Worktimes ([Project on github.com](//github.com/EnsnerT/PrototypeTimeLog) / [Live on github.io](//ensnert.github.io/PrototypeTimeLog/))
+
+If you are more Interested in me, take a look into my [current skills List](SKILLS.md).
+<!-- i hope this link works on the profile correctly -->
 
 <!--
 **EnsnerT/EnsnerT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
