@@ -33,6 +33,7 @@ Its not Sorted. Dont try to make a sense of the Order :)
 - PHP (since 2017, 4 Months, No Usage, Casual)
 - Kusto (since mid 2026, High Usage)
 - SQL (since 2018, Medium Usage)
+- Python (since mid 2026, 1 Week, No Usage)
 
 ### Scripting Languages
 - PowerShell 5 (since 2018, Medium Usage)
